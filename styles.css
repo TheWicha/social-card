@@ -79,6 +79,8 @@ img {
     flex-direction: column;
     align-items: center;
     padding: 22px;
+    scale: 1.2; 
+    /* please ignore scale i had free version pic and it was smaller then solution on page */
 }
 
 .card img {
